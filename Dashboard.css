@@ -1,0 +1,185 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.dash{
+    font-weight: 600;
+}
+.dash2{
+    background-color: rgb(34, 56, 224);
+    color: white;
+    padding: 5px;
+}
+p{
+    margin-bottom: 0 !important;
+}
+.top_nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 90px !important;
+}
+.top_line{
+    margin: 15px !important;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.top1{
+    box-shadow: 1px 1px 2px 2px rgba(238, 235, 235, 0.315);
+    background-color: white;
+}
+.topOne{
+    box-shadow: 1px 1px 2px 2px rgba(238, 235, 235, 0.315);
+    background-color: white;
+}
+@media(max-width:988px){
+    .top1{
+        margin-top: 0px !important;
+    }
+}
+.top{
+    box-shadow: 1px 1px 2px 2px rgba(238, 235, 235, 0.315);
+    background-color: white;
+}
+.top_heading{
+    font-family: sans-serif;
+    color: rgb(114, 110, 110);
+}
+.row{
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.ficon{
+    color: rgb(175, 165, 165); 
+    margin-left: 5px;
+    font-size: 18px;
+}
+.chart1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.dollar{
+    color: rgb(77, 74, 74);
+    /* font-size: 27px; */
+}
+.ann_head1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    margin-left: 32px;
+}
+.ann_head2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 15px;
+    font-size: 13px;
+    padding: 16px;
+    color: gray;
+}
+.ann_btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.ann_date{
+    color: rgb(34, 56, 224);
+    font-weight: 600;
+    padding: 2px;
+    border-radius: 4px;
+    margin-right: 105px;
+    background-color: rgba(34, 56, 224, 0.048);
+}
+.button{
+    color: grey;
+    border: 1px solid gray;
+    margin-left: 105px;
+    box-shadow: 1px 1px lightgray;
+    padding: 3px;
+}
+.progress{
+    margin-left: 30px;
+    margin-right: 40px;
+    /* margin: 10px ; */
+}
+.pro_prgr{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pro_progress{
+    margin-right: 105px;
+    color: grey;
+}
+.pro_precentage{
+    margin-left: 105px;
+    color: grey;
+}
+.TS_head1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    margin-left: 32px;
+}
+.TS_head2{
+    margin-left: 22px;
+    font-size: 18px;
+    padding: 10px;
+    color: rgb(34, 56, 224);
+    font-weight: 600;
+}
+.TS_btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.TS_location{
+    color: grey;
+}
+.bottom_line{
+    margin-top: 15px !important;
+    padding-left:28px !important;
+    padding-right: 28px !important;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    border-bottom: 1px solid lightgray;
+}
+.faAllIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 28px;
+    margin-bottom: 26px;
+}
+.faicon{
+    margin: 5px;
+    font-size: 40px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px grey;
+    color: grey;
+}
+.fa1icon{
+    margin: 5px;
+    font-size: 40px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px grey;
+    color: white;
+    background-color: rgb(34, 56, 224);
+}
+.html{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.html1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.html2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(146, 142, 142);
+    font-size: 11px;
+}
+.main{
+    display: flex;
+}
